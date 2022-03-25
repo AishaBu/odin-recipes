@@ -7,7 +7,8 @@
        }
    
        body {
-           background-color: rgb(235, 209, 196);
+           background-color: rgb(117, 114, 133);
+         
            
        }
 
@@ -24,7 +25,7 @@ html{
 
         margin: 25px auto;
         border-radius: 50%;
-        border: 0.6px solid rgb(168, 105, 99);
+        border: 0.6px solid rgb(38, 22, 133);
         background-color: rgb(226,225,231);
         box-shadow: 0 -30px 30px -10px rgba(0,0,0,1), 0 0 8px 1 rgba(255,255,255,1) inset;
     
@@ -49,5 +50,25 @@ h1{
     position: relative;
     top: 25%;
     color: rgb(24, 30, 63);
+    
+}
+
+
+
+.img-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+div img{
+    border: 2px solid rgb(13, 15, 121);
+    margin: 10px auto;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+
+    position: relative;
+    top: 5px;
     
 }
