@@ -50,6 +50,7 @@ h1{
     position: relative;
     top: 25%;
     color: rgb(24, 30, 63);
+    text-shadow: 1px 1px rgb(24, 30, 63);
     
 }
 
@@ -71,5 +72,5 @@ figcaption{
     position: relative;
     color: aliceblue;
     font-weight: bold;
-    text-shadow: 1px 1px 2px rgb(100, 98, 112);
+    text-shadow: 1px 1px rgb(100, 98, 112);
 }
