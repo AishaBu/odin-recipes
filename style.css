@@ -6,15 +6,9 @@
        box-sizing: border-box;
        }
    
-       body {
-           background-color: rgb(117, 114, 133);
-         
-           
+    body {
+           background-color: rgb(117, 114, 133);   
        }
-
-html{
-    min-height: 100%;
-}
 
 
 .outer-plate{
