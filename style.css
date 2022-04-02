@@ -62,13 +62,16 @@ figure img{
     object-fit: cover;
 }
 
-figcaption{
+
+
+figcaption {
     text-align: center;
     position: relative;
     color: aliceblue;
     font-weight: bold;
     text-shadow: 1px 1px rgb(100, 98, 112);
     margin-bottom: 1.5rem;
+    text-decoration: none;
 }
 
 
