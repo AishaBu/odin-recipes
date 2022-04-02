@@ -73,32 +73,56 @@ figcaption{
 
 
 
+
+/* Footer */
+
+footer{
+    position: relative;
+    background-color:rgb(76, 74, 87);
+    min-height: 30px;
+    width: auto;
+}
+
+    
+p{
+    text-align: center;
+    padding-top: 10px;
+    color:rgb(211, 217, 223) ;
+    font-weight: bold;
+    font-size: 0.875rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
 /* Media Queries */
  
 @media all and (min-width: 800px){
 
     figure{
-
         display:grid;
-       grid-template-columns: repeat(2, 1fr); 
-       gap: 3rem; 
-       margin-bottom: 3rem;
+        grid-template-columns: repeat(2, 1fr); 
+        gap: 3rem; 
+        margin-bottom: 3rem;
     }
 
 
     figure img{
-
         width: 360px;
         height: 360px;
     }
 
-   /* figcaption{
 
-        text-align: left;
+    footer{
+        min-height: 50px;  
     }
 
-*/
-
-
+    p{
+        padding-top: 20px;
+        font-size: 1 rem;
+    }
 
 }
