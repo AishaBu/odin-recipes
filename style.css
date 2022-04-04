@@ -64,7 +64,7 @@ figure img{
 
 
 
-figcaption {
+figcaption a {
     text-align: center;
     position: relative;
     color: aliceblue;
