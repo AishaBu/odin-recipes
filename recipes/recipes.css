@@ -57,7 +57,7 @@ h1{
 }
 
 
-/*Chipotle Chicken Chili Circular */
+/*Recipes Circular Images*/
 
 figure img{
     display: block;
@@ -88,7 +88,7 @@ figcaption p{
 }
 
 
-/*Ingredients*/
+/*Instructions & Ingredients*/
 
 h2, ul li{
     font-size: 0.9rem;
@@ -117,7 +117,10 @@ ol li{
     max-width: 400px;
 }
 
-
+ol p{
+    text-align: left;
+    margin-left: 5px;
+}
 
 
 /* Footer */
@@ -143,7 +146,7 @@ p{
 
 
 
-/* Media Queries */
+/* Media Queries for recipes*/
  
 @media all and (min-width: 800px){
 
@@ -156,7 +159,7 @@ p{
         flex-direction: row;
         flex-wrap: wrap;
         gap: 20rem;
-        margin-top: 100px;
+        margin-top: 60px;
         justify-content: center;
     }
 
