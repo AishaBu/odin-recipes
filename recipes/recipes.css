@@ -158,11 +158,12 @@ p{
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        gap: 20rem;
+        gap: 15rem;
         margin-top: 60px;
         justify-content: center;
     }
 
+  
 
 ol li{
         max-width: 800px;
