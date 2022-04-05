@@ -1,1 +1,148 @@
 
+*, *::before, *::after{
+    /*Resets everything to 0 universally*/
+       border: 0;
+       padding: 0;
+       margin: 0;  
+       box-sizing: border-box;
+       }
+   
+
+body {
+           background-color: rgb(117, 114, 133);   
+           min-height: 100vh;
+       }
+
+
+ /*Plate*/
+.outer-plate{
+        display: block;
+        position: relative;
+        height: 120px;
+        width: 120px;
+
+        margin: 25px auto;
+        border-radius: 50%;
+        border: 0.6px solid rgb(38, 22, 133);
+        background-color: rgb(226,225,231);
+        box-shadow: 0 -30px 30px -10px rgba(0,0,0,1), 0 0 8px 1 rgba(255,255,255,1) inset;
+    
+}
+
+
+.inner-plate{
+        width: 70%;
+        height: 70%;
+        position: absolute;
+        left:15%;
+        top: 15%;
+        display: block;
+        border-radius: 50%;
+        box-shadow: 0 20px 10px -5px rgba(255,255,255,.5) inset, 0 -20px 10px -5px rgba(20, 20, 20, 0.5) inset;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 3rem;
+    font-family: 'Hurricane', 'cursive';
+    position: relative;
+    top: 25%;
+    color: rgb(24, 30, 63);
+    text-shadow: 1px 1px rgb(24, 30, 63);
+}
+
+.plate{
+    text-decoration: none;
+}
+
+/*Image*/
+
+figure img{
+    display: block;
+    border-radius: 50%;
+    position: relative;
+    height: 100px;
+    width: 100px;
+    border: 2px solid rgb(38, 22, 133);
+    margin: auto;
+}
+
+
+figcaption {
+    text-align: center;
+    position: relative;
+    color: aliceblue;
+    font-weight: bold;
+    text-shadow: 1px 1px rgb(100, 98, 112);
+    margin-top: 1.0rem;
+    text-decoration: none;
+}
+
+figcaption :hover{
+    color: rgb(13, 15, 121);
+    opacity: 50%;
+}
+
+
+figcaption p{
+    color: aliceblue;
+    opacity: 90%;
+}
+
+
+
+/*Ingredients*/
+
+h2, ul li{
+    font-size: 0.9rem;
+    list-style-position: inside;
+}
+
+
+h2{
+    padding-top: 20px;
+    margin-bottom: 4px;
+    color: aliceblue;
+    margin-left: 5px;
+    
+}
+
+ul li{
+   padding: 4px;
+}
+
+
+ol li{
+    padding: 10px;
+    font-size: 0.9rem;
+    list-style-position: inside;
+    word-spacing: 3px;
+}
+
+
+
+
+
+
+
+/* Footer */
+
+
+footer{
+    position: relative;
+    background-color:rgb(76, 74, 87);
+    min-height: 30px;
+    width: auto;
+}
+    
+p{
+    text-align: center;
+    padding-top: 10px;
+    color:rgb(211, 217, 223) ;
+    font-weight: bold;
+    font-size: 0.875rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+    

@@ -11,7 +11,7 @@
            min-height: 100vh;
        }
 
-
+/*Plate*/
 .outer-plate{
         display: block;
         position: relative;
@@ -38,7 +38,7 @@
         box-shadow: 0 20px 10px -5px rgba(255,255,255,.5) inset, 0 -20px 10px -5px rgba(20, 20, 20, 0.5) inset;
 }
 
-h1{
+ h1{
     text-align: center;
     font-size: 3rem;
     font-family: 'Hurricane', 'cursive';
@@ -46,9 +46,13 @@ h1{
     top: 25%;
     color: rgb(24, 30, 63);
     text-shadow: 1px 1px rgb(24, 30, 63);
-    
 }
 
+.plate{
+    text-decoration: none;
+}
+
+/*Images*/
 figure{
     display: grid;
    grid-template-columns: repeat(1, 1fr);
@@ -100,9 +104,6 @@ p{
     font-size: 0.875rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
-
-
 
 
 
