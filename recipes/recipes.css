@@ -87,6 +87,10 @@ figcaption p{
     opacity: 90%;
 }
 
+#farro-image{
+    object-fit: cover;
+    object-position: right;
+}
 
 /*Instructions & Ingredients*/
 
