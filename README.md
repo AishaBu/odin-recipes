@@ -13,14 +13,17 @@ I will link Blue Apron and The Odin Project as sources below.
 
 
 <img src="./readme-file-images/read-me-mobile-first.png" width="25%" height="25%">
-
+<img src="./readme-file-images/read-me-mobile-first-recipe-page.png" width="25%" height="25%">
+<img src="./read-me-mobile-first-recipe-page-two.png"   width="25%" height="25%">
 
 <!--
+
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-two.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-recipe-page-two.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-recipe-page.png)
+
 ![Odin Recipes Homepage](./readme-file-images/read-me-homepage-one.png)
 ![Odin Recipes Homepage](./readme-file-images/read-me-homepage-two.png)
 ![Odin Recipes Homepage](./readme-file-images/read-me-homepage-recipe-page.png)
-
-![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-two.png)
-![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-recipe-page.png)
 
 -->
