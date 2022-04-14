@@ -61,7 +61,7 @@ h1{
 
 figure img{
     display: block;
-    border-radius: 50%;
+    border-radius: 60%;
     position: relative;
     height: 100px;
     width: 100px;
@@ -87,10 +87,15 @@ figcaption p{
     opacity: 90%;
 }
 
-#farro-image{
-    object-fit: cover;
-    object-position: right;
+#potato-image, #Bean-Quinoa{
+    object-fit:cover;
+    object-position: left;
 }
+
+
+
+
+
 
 /*Instructions & Ingredients*/
 
