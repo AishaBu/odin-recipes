@@ -12,12 +12,12 @@ The images and the recipes for this asisgnment were gotten from Blue Apron.
 I will link Blue Apron and The Odin Project as sources below.
 
 
-<img src="./readme-file-images/read-me-mobile-first-one.png" width="20%" height="20%">
-
-<img src="./readme-file-images/read-me-mobile-first-two.png" width="20%" height="20%">
+<img src="./readme-file-images/read-me-mobile-first-one.png" width="20%" height="20%" hspace="10">
+<img src="./readme-file-images/read-me-mobile-first-two.png" width="20%" height="20%" hspace="10">
+<img src="./readme-file-images/read-me-mobile-first-recipe-page.png" width="20%" height="20%" hspace="10">
 
 <!--
 
-![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-two.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-recipe-page.png)
 
 -->
