@@ -12,6 +12,13 @@ The images and the recipes for this asisgnment were gotten from Blue Apron.
 I will link Blue Apron and The Odin Project as sources below.
 
 
-![Odin Recipes Homepage](./readme-file-images/read-me-homepage-one.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-two.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-recipe-page.png)
 
-<img src="./readme-file-images/read-me-homepage-one.png" width="300" height="300">
+
+![Odin Recipes Homepage](./readme-file-images/read-me-homepage-one.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-homepage-two.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-homepage-recipe-page.png)
+
+
