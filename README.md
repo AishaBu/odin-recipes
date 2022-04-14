@@ -14,4 +14,4 @@ I will link Blue Apron and The Odin Project as sources below.
 
 ![Odin Recipes Homepage](./readme-file-images/read-me-homepage-one.png)
 
-<img src="read-me-homepage-one.png" width="100" height="100">
+<img src="./readme-file-images/read-me-homepage-one.png" width="100" height="100">
