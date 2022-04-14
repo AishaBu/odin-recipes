@@ -28,7 +28,7 @@ I will link Blue Apron and The Odin Project as sources below.
 
 <table>
     <tr>
-    <td><img src="./readme-file-images/read-me-homepage-recipe-page.png" width="50px"></td>
+    <td><img src="./readme-file-images/read-me-homepage-recipe-page.png"></td>
     </tr>
 </table>
 
