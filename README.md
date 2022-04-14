@@ -19,10 +19,21 @@ I will link Blue Apron and The Odin Project as sources below.
     </tr>
 </table>
 
+<table>
+    <tr>
+    <td><img src="./readme-file-images/read-me-homepage-one.png"></td>
+    <td><img src="./readme-file-images/read-me-homepage-two.png"></td>
+    </tr>
+</table>
 
+<table>
+    <tr>
+    <td><img src="./readme-file-images/read-me-homepage-recipe-page.png"></td>
+    </tr>
+</table>
 
 <!--
 
-![Odin Recipes Homepage](./readme-file-images/read-me-mobile-first-recipe-page.png)
+![Odin Recipes Homepage](./readme-file-images/read-me-homepage-recipe-page.png)
 
 -->
