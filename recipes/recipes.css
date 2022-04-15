@@ -7,10 +7,10 @@
        box-sizing: border-box;
        }
    
-
 body {
            background-color: rgb(117, 114, 133);   
            min-height: 100vh;
+    
        }
 
 
@@ -131,12 +131,11 @@ ol p{
 
 /* Footer */
 footer{
-    position: relative;
+    position: sticky;
+    top: 100%;
     background-color:rgb(76, 74, 87);
     min-height: 30px;
-    width: auto;
-    top: 0;
-    bottom: 0;
+    width: 100%;
 }
     
 p{
@@ -155,7 +154,7 @@ p{
 @media all and (min-width: 800px){
 
     footer{
-            min-height: 50px; 
+        min-height: 50px; 
     }
 
      .recipe{
