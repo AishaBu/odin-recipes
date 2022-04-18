@@ -37,8 +37,10 @@ I will link Pexels, All Recipes, and The Odin Project as sources below.
 
 **Sources:**
 
-[Odin Recipes Homepage](https://www.theodinproject.com/)
-
 [Pexels Homepage](https://www.pexels.com/)
 
 [All Recipes Homepage](https://www.allrecipes.com/)
+
+**Odin Project**
+
+[Odin Recipes Homepage](https://www.theodinproject.com/)
