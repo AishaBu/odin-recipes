@@ -40,12 +40,12 @@
 
  h1{
     text-align: center;
-    font-size: 4rem; 
-    font-family:'Tangerine', cursive;
+    font-size: 3rem; 
+    font-family:'Lato', sans-serif;
     position: relative;
     top: 25%;
     color: rgb(24, 30, 63);
-    text-shadow: 1px rgb(24, 30, 63); 
+    text-shadow: 1px 1px rgb(24, 30, 63); 
 }
 
 .plate{
