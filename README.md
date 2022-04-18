@@ -33,8 +33,12 @@ I will link Pexels, All Recipes, and The Odin Project as sources below.
     </tr>
 </table>
 
-<!--
 
-![Odin Recipes Homepage](./readme-file-images/read-me-homepage-recipe-page.png)
 
--->
+**Sources:**
+
+[Odin Recipes Homepage](https://www.theodinproject.com/)
+
+[Pexels Homepage](https://www.pexels.com/)
+
+[All Recipes Homepage](https://www.allrecipes.com/)
