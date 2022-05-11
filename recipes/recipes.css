@@ -149,9 +149,9 @@ p{
 
 
 
-/* Media Queries for recipes*/
+/* Media Queries for recipes* 912px and below*/
  
-@media all and (min-width: 800px){
+@media (min-width: 912px) {
 
     footer{
         min-height: 50px; 
@@ -161,15 +161,19 @@ p{
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        gap: 15rem;
+        gap: 4rem;
         margin-top: 60px;
         justify-content: center;
+        
     }
 
   
 
 ol li{
-        max-width: 800px;
+       /* max-width: 800px; */
     }
 
 }
+
+
+
